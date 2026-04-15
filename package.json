@@ -14,6 +14,6 @@
     "vite": "^8.0.4"
   },
   "dependencies": {
-    "@lakamark/modulo-editor": "^0.3.1-alpha.2"
+    "@lakamark/modulo-editor": "^0.4.0-alpha.0"
   }
 }
