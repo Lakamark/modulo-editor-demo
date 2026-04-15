@@ -1,2 +1,5 @@
 import '../assets/css/app.scss';
-import "@lakamark/modulo-editor/reset.css"
+
+import { mountBasicDemo } from "./demos/basic.ts";
+
+mountBasicDemo();
