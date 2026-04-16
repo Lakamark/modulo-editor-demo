@@ -1,5 +1,3 @@
 import '../assets/css/app.scss';
-
-import { mountBasicDemo } from "./demos/basic.ts";
-
+import {mountBasicDemo} from "./demos/basic";
 mountBasicDemo();
